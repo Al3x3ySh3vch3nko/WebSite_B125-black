@@ -29,8 +29,8 @@
 
     /* -------- images --------*/
     --slider-photo: url(../img/slider-photo.png);
-    --company-photo: url(../img/company-photo.png);
-    --advantages-photo: url(../img/advantages-photo.jpg);
+    --company-photo: url(../img/advantages-photo.jpg);
+    --advantages-photo: url(../img/company-photo.png);
     --news-photo-1: url(../img/news-1.jpg);
     --news-photo-2: url(../img/news-2.jpg);
 
