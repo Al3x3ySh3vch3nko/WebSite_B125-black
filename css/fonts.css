@@ -27,7 +27,7 @@
 
 :root
 {
-    --accent-color:#ffc222;
+    --accent-color:#d19704;
     --dark-text-color: #5e5e5e;
 }
 
@@ -46,7 +46,7 @@
 }
 .icon-angle-right:after {
   content: "\e900";
-  /* color: #000; */
+  /* color: #fff; */
   right: -27px;
   z-index: 2;
 }
@@ -71,7 +71,7 @@
 .icon-briefcase:before {
   content: "\e9ae";
   padding-right: 15px;
-  color: var(--dark-text-color);
+  color: black;
 }
 .icon-menu:before {
   content: "\e9bd";

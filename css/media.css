@@ -1,9 +1,14 @@
+@media (max-width:1370px)
+{
+    .form
+    {
+        background: none;
+    }
+}
+
 @media (max-width:1200px)
 {
-    .form__inner
-    {
-        background-image: none;
-    }
+    
     .news-inner
     {
         display: block; 
