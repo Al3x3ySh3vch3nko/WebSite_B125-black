@@ -354,7 +354,6 @@ a.△btn-yellow:nth-child(3)
     gap: 2vw; */
     display: flex;
     justify-content: space-between;
-    
 }
 
 .about__items img
@@ -368,6 +367,7 @@ a.△btn-yellow:nth-child(3)
     text-align: center;
     position: relative;
     margin: 33px;
+    width: 320px;
 }
 
 img[src*=about-3]

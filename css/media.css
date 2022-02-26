@@ -79,6 +79,20 @@
     {
         align-self: center;
     }
+    .about__items
+    {
+        flex-direction: column;
+        margin-top: 30px;
+        align-items: center;
+    }
+    .about__items-item
+    {
+        margin-top: 80px;
+    }
+    .slider__btn
+    {
+        margin-top: 0;
+    }
 }
 
 @media (max-width:720px)
@@ -152,12 +166,7 @@
         min-width: unset;
         margin-left: 20px;
     }
-    .about__items
-    {
-        flex-direction: column;
-        margin-top: 30px;
-    }
-    .about__items-item:nth-child(2),
+        .about__items-item:nth-child(2),
     .about__items-item:nth-child(3)
     {
         margin-top: 130px;
