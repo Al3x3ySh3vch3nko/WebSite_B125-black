@@ -318,7 +318,7 @@ a.△btn-yellow:nth-child(3)
 
 .slider-arrow
 {
-    background-color: var(--transparent-color);
+    background-color: var(--accent-color);
     border: 1px #000 solid;
     color: #000;
     border-radius: 0px;
@@ -327,9 +327,9 @@ a.△btn-yellow:nth-child(3)
 }
 .slider-arrow:hover
 {
-    background-color: var(--accent-color);
-    border: 1px #000 solid;
-    color: #000;
+    background-color: #000;
+    border: 1px #fff solid;
+    color: #fff;
 }
 
 /* ======== About Section ======== */
